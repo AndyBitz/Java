@@ -1,4 +1,5 @@
 ### project-data ###
+compile:
 ```
-compile: javac app.java [file2.java, file3.java, ...]
+javac app.java [file2.java, file3.java, ...]
 ```
